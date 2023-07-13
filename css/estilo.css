@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family= Oxygen :wght@300;700 & display=swap');
+
 body{
     background-color: #f0f8ff;
 }
 header{
     background-image: url(../img/fundo.jpg);
+    font-family: 'Oxygen', sans-serif;
 
 }
 .container{
@@ -27,4 +30,5 @@ header{
 }
 footer{
     background-image: url(../img/fundo.jpg);
+    font-family: 'Oxygen', sans-serif;
 }
